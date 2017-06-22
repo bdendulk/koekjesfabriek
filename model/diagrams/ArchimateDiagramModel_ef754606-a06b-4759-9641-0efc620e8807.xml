@@ -421,9 +421,9 @@
           href="RealizationRelationship_7dfb31d9-6643-4b82-b710-583bea53c376.xml#7dfb31d9-6643-4b82-b710-583bea53c376"/>
     </sourceConnections>
     <bounds
-        x="817"
+        x="808"
         y="216"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -536,9 +536,9 @@
           href="RealizationRelationship_d5344582-bb1f-44c5-8b91-49f7406af187.xml#d5344582-bb1f-44c5-8b91-49f7406af187"/>
     </sourceConnections>
     <bounds
-        x="816"
+        x="807"
         y="132"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -558,9 +558,9 @@
           href="RealizationRelationship_a702aa48-2f53-4677-aeeb-59930e7acf14.xml#a702aa48-2f53-4677-aeeb-59930e7acf14"/>
     </sourceConnections>
     <bounds
-        x="623"
+        x="614"
         y="132"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -580,9 +580,9 @@
           href="RealizationRelationship_ecae425f-7668-4163-828f-50174296663e.xml#ecae425f-7668-4163-828f-50174296663e"/>
     </sourceConnections>
     <bounds
-        x="444"
+        x="435"
         y="131"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -774,9 +774,9 @@
           href="RealizationRelationship_eb775632-9ac4-41b2-9426-88213b6d1316.xml#eb775632-9ac4-41b2-9426-88213b6d1316"/>
     </sourceConnections>
     <bounds
-        x="444"
+        x="435"
         y="216"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -796,9 +796,9 @@
           href="RealizationRelationship_3bbdf902-b48d-4343-ae4e-f32bcaf50bb6.xml#3bbdf902-b48d-4343-ae4e-f32bcaf50bb6"/>
     </sourceConnections>
     <bounds
-        x="623"
+        x="614"
         y="217"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -958,9 +958,9 @@
           href="RealizationRelationship_2808a506-936b-4c87-aaa3-808346da79d1.xml#2808a506-936b-4c87-aaa3-808346da79d1"/>
     </sourceConnections>
     <bounds
-        x="995"
+        x="986"
         y="132"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -980,9 +980,9 @@
           href="RealizationRelationship_791b2d80-8390-49d1-8bc2-984834722429.xml#791b2d80-8390-49d1-8bc2-984834722429"/>
     </sourceConnections>
     <bounds
-        x="993"
+        x="984"
         y="217"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
