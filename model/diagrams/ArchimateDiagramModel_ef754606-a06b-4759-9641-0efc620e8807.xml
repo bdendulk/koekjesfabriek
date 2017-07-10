@@ -593,9 +593,9 @@
       id="1682a1d4-695c-42ec-ad11-2e36078f7175"
       targetConnections="e8b467e4-7feb-4fb4-b3bb-d49d4fe9a013">
     <bounds
-        x="736"
+        x="730"
         y="-382"
-        width="120"
+        width="129"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
@@ -608,7 +608,7 @@
     <bounds
         x="532"
         y="-382"
-        width="120"
+        width="129"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
@@ -619,9 +619,9 @@
       id="7ffd9255-f2f7-4c79-89cf-0517c3bb0a0c"
       targetConnections="88ba3a17-ed38-41f8-af31-944b29662e2d">
     <bounds
-        x="915"
+        x="912"
         y="-382"
-        width="120"
+        width="130"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
